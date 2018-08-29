@@ -6,13 +6,42 @@
 </description>
     <link>frizr.github.io/</link>
     <atom:link href="frizr.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Aug 2018 22:56:58 +0200</pubDate>
-    <lastBuildDate>Tue, 28 Aug 2018 22:56:58 +0200</lastBuildDate>
+    <pubDate>Wed, 29 Aug 2018 16:54:03 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Aug 2018 16:54:03 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
+        <title>OpenCV Project PLuTO</title>
+        <description>&lt;p&gt;PLuTO (Puck Lokalisierung und Tracking mit OpenCv) German for “Puck Localisation and Tracking with OpenCV” is a Software designed for Physik Students.&lt;/p&gt;
+
+&lt;p&gt;At TU Berlin Physik Students try to simulate Particels in a Gas with Hockey like Pucks on a Air Table.&lt;/p&gt;
+
+&lt;p&gt;This Software is to help the Students with Tracking the Pucks.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Friedrich Rieber&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 29 Aug 2018 16:00:00 +0200</pubDate>
+        <link>frizr.github.io/projects/2018/08/29/OpenCV-Project-PLuTo.html</link>
+        <guid isPermaLink="true">frizr.github.io/projects/2018/08/29/OpenCV-Project-PLuTo.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
         <title>First Blog Post</title>
-        <description>&lt;p&gt;This is my first Blog Post. Testing out Jekylls Static Site Builder&lt;/p&gt;
+        <description>&lt;p&gt;This is my first Blog Post. Testing out Jekylls Static Site Builder.&lt;/p&gt;
+
+&lt;p&gt;My Goal with this Blog is to document my personal Projects, which are listed on my GitHub Account.&lt;/p&gt;
+
+&lt;p&gt;In addition to that some tipps and tricks about multiple Topics and other Projects which are not big enough to get their own repository.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Friedrich Rieber&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Tue, 28 Aug 2018 22:34:10 +0200</pubDate>
         <link>frizr.github.io/general/2018/08/28/first-blog-post.html</link>
