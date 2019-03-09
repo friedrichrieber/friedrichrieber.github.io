@@ -6,18 +6,64 @@
 </description>
     <link>frizr.github.io/</link>
     <atom:link href="frizr.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Aug 2018 16:54:03 +0200</pubDate>
-    <lastBuildDate>Wed, 29 Aug 2018 16:54:03 +0200</lastBuildDate>
+    <pubDate>Sun, 10 Mar 2019 00:34:56 +0100</pubDate>
+    <lastBuildDate>Sun, 10 Mar 2019 00:34:56 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>OpenCV Project PLuTO</title>
-        <description>&lt;p&gt;PLuTO (Puck Lokalisierung und Tracking mit OpenCv) German for “Puck Localisation and Tracking with OpenCV” is a Software designed for Physik Students.&lt;/p&gt;
+        <description>&lt;h1 id=&quot;general&quot;&gt;General&lt;/h1&gt;
 
-&lt;p&gt;At TU Berlin Physik Students try to simulate Particels in a Gas with Hockey like Pucks on a Air Table.&lt;/p&gt;
+&lt;p&gt;PLuTO (Puck Lokalisierung und Tracking mit OpenCv) German for “Puck Localisation and Tracking with OpenCV” is a Software designed for Physik Students.&lt;/p&gt;
 
-&lt;p&gt;This Software is to help the Students with Tracking the Pucks.&lt;/p&gt;
+&lt;p&gt;At TU Berlin Physik Students try to simulate Particels in a gas with hockey like pucks on a air table.&lt;/p&gt;
 
+&lt;p&gt;This software tries to help the Students with tracking the pucks.&lt;/p&gt;
+
+&lt;h1 id=&quot;development&quot;&gt;Development&lt;/h1&gt;
+
+&lt;h2 id=&quot;general-1&quot;&gt;General&lt;/h2&gt;
+
+&lt;p&gt;The software was developed during the “Mathesis Labor” Course from the Technical University Berlin in a Group of about 15 people at the start and was finished, like a lot of group projects, by 5 remaining Students. This high drop out Rate can be explained by the voluntary status of the lab. Mathesis is one of many labs in the “MINTgrün Orientierungsstudium” which is a 2 Semester orientation study direction at the Technical University of Berlin.&lt;/p&gt;
+
+&lt;h2 id=&quot;goals&quot;&gt;Goals&lt;/h2&gt;
+
+&lt;p&gt;The Goals for this Software were:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;learning python&lt;/li&gt;
+  &lt;li&gt;learning OpenCV (Open Computer Vision Library)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;learning Tkinter (Gui Library)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;producing a tool which can track pucks&lt;/li&gt;
+  &lt;li&gt;learning a little bit machine learning for detection&lt;/li&gt;
+  &lt;li&gt;learning to work in a group&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;final-results&quot;&gt;Final Results&lt;/h2&gt;
+
+&lt;p&gt;At the end of this group project there were only a fraction of the persons still working on it but we still managed to get something working with a somewhat nice looking GUI put together.&lt;/p&gt;
+
+&lt;h2 id=&quot;personal-conclusion&quot;&gt;Personal conclusion&lt;/h2&gt;
+
+&lt;p&gt;In addition to python, OpenCV, bash scripting, azure server handling and git on the technical site i learned a lot of how working in a bigger group works and how hard it is to finish a project and how important communication is. Overall i would say the Mathesis Lab was a total succes although our finished Product is not the thing we dreamed of.&lt;/p&gt;
+&lt;h1 id=&quot;usage&quot;&gt;Usage&lt;/h1&gt;
+
+&lt;p&gt;The software has yet to be used, the idea of physics student using this software was hypothetical but could have become a reality.&lt;/p&gt;
+
+&lt;h1 id=&quot;ressources&quot;&gt;Ressources&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pluto-development-team/puck-tracker-pluto&quot;&gt;Github Page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/pdfs/pluto.pdf&quot;&gt;Presentation in German&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;pictures&quot;&gt;Pictures&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/pictures/detection_1.png&quot; alt=&quot;result of the detection algorithm&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/pictures/gui_1.png&quot; alt=&quot;The landing Page of the gui&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Friedrich Rieber&lt;/li&gt;
 &lt;/ul&gt;
