@@ -9,12 +9,12 @@
 title: Friedrich Rieber
 email: friedrichrieber@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This Friedrich Rieber's personal Webpage 
+  This Friedrich Rieber's personal Webpage
   Created with Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "frizr.github.io" # the base hostname & protocol for your site
+url: "friedrichrieber.github.io" # the base hostname & protocol for your site
 twitter_username: FriedrichRieber
-github_username:  frizr
+github_username:  friedrichrieber
 
 # Build settings
 markdown: kramdown
